@@ -22,9 +22,14 @@ code {
   right: 0;
 }
 
-#notif,
+#alertsAndDMs,
 #profile {
   width: 40px;
   margin: 0.5em;
   padding: 5px;
+}
+
+header {
+  background-color: #faceca;
+  width: 100%;
 }
